@@ -1,19 +1,19 @@
 # Calculadora Científica com Python e CustomTkinter
 
-Projeto prático desenvolvido para a disciplina de programação, aplicando conceitos de Python, organização de código em pacotes, interface gráfica, tratamento de erros e versionamento com Git/GitHub[cite: 1, 3, 4].
+Projeto prático desenvolvido para a disciplina de programação, aplicando conceitos de Python, organização de código em pacotes, interface gráfica, tratamento de erros e versionamento com Git/GitHub.
 
 ## Aluno
 - Deodeniz da Silva Corrêa
  
 ## Funcionalidades
-- Operações básicas: Adição, Subtração, Multiplicação e Divisão[cite: 2].
-- Operações adicionais: Potenciação, Raiz Quadrada e Porcentagem[cite: 2].
-- Tratamento de erros (como divisão por zero e entradas inválidas)[cite: 2].
-- Interface gráfica moderna utilizando CustomTkinter[cite: 1].
+- Operações básicas: Adição, Subtração, Multiplicação e Divisão.
+- Operações adicionais: Potenciação, Raiz Quadrada e Porcentagem.
+- Tratamento de erros (como divisão por zero e entradas inválidas).
+- Interface gráfica moderna utilizando CustomTkinter.
 
 ## Tecnologias Utilizadas
 - Python 3.x
-- CustomTkinter[cite: 1]
+- CustomTkinter
 
 ## Como Executar
 1. Clone o repositório:
