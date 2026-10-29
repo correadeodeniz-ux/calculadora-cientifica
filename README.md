@@ -17,7 +17,5 @@ Projeto prático desenvolvido para a disciplina de programação, aplicando conc
 
 ## Como Executar
 1. Clone o repositório:
-## Como Executar
-1. Clone o repositório:
    ```bash
    git clone [https://github.com/correadeodeniz-ux/calculadora-cientifica.git](https://github.com/correadeodeniz-ux/calculadora-cientifica.git)
